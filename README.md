@@ -1,44 +1,56 @@
 # 👨🏻‍💻 Rodrigo Souza  
 
-### 🏆 Desenvolvedor **Flutter & Integrador TOTVS Protheus**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C526&center=true&vCenter=true&lines=Desenvolvedor+Flutter;Integrador+TOTVS+Protheus;Entusiasta+Cross-Platform;Criando+Apps+de+Alto+Desempenho" />
+</p>
 
-Sou um desenvolvedor especializado no ecossistema **Flutter** e **Dart**, criando aplicações móveis cross-platform de alta performance.  
-Tenho experiência com **integração de sistemas via API RESTful**, utilizando **PHP** e **MySQL** no backend, além de trabalhar com o **TOTVS Protheus (ADVPL)** para conectar e automatizar processos empresariais.  
+---
 
-Minha missão é desenvolver soluções escaláveis que otimizam fluxos de trabalho, garantindo que as aplicações atendam às necessidades específicas do negócio.  
+## 🏆 Sobre Mim  
+
+👋 Olá! Sou **Rodrigo Souza**, desenvolvedor **Flutter & Integrador TOTVS Protheus**, apaixonado por tecnologia e soluções **mobile cross-platform**.  
+
+🚀 Minha especialidade é criar **aplicativos escaláveis** que se conectam a sistemas corporativos via **API RESTful**, utilizando **PHP & MySQL**.  
+💼 Experiência sólida em **integração com TOTVS Protheus (ADVPL)**, automatizando processos e otimizando a performance.  
+🎯 Foco em **UX/UI**, garantindo que os aplicativos sejam **rápidos, intuitivos e bonitos**.  
 
 ---
 
 ## 🚀 Tecnologias  
 
+🔹 **Mobile & Cross-Platform**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![GetX](https://img.shields.io/badge/GetX-EC6813?style=for-the-badge&logo=flutter&logoColor=white)  
+![Provider](https://img.shields.io/badge/Provider-7744DD?style=for-the-badge&logo=flutter&logoColor=white)  
+
+🔹 **Backend & Banco de Dados**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![API REST](https://img.shields.io/badge/API%20REST-00C853?style=for-the-badge&logo=postman&logoColor=white)  
+
+🔹 **ERP & Integração**  
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-0078D7?style=for-the-badge&logo=totvs&logoColor=white)  
+![ADVPL](https://img.shields.io/badge/ADVPL-1F618D?style=for-the-badge&logo=totvs&logoColor=white)  
+
+---
+
+## 📱 Projetos em Flutter  
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50px"/>
-      <br/>Flutter
+      <img src="screenshots/app1.gif" width="250"/>
+      <br/>📌 <strong>App de Borderô</strong> <br/> Integração com TOTVS Protheus
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50px"/>
-      <br/>Dart
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px"/>
-      <br/>PHP
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px"/>
-      <br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/128/11687/11687811.png" width="50px"/>
-      <br/>API REST
-    </td>
-    <td align="center">
-      <img src="https://seeklogo.com/images/T/totvs-logo-AC24AADE6C-seeklogo.com.png" width="50px"/>
-      <br/>TOTVS Protheus
+      <img src="screenshots/app2.gif" width="250"/>
+      <br/>📌 <strong>Gestão de Equipamentos</strong> <br/> API REST com PHP/MySQL
     </td>
   </tr>
 </table>
+
+🔗 **Veja mais projetos:** [GitHub Repositories](https://github.com/rodrigo2ss?tab=repositories)
 
 ---
 
@@ -57,14 +69,31 @@ Minha missão é desenvolver soluções escaláveis que otimizam fluxos de traba
 
 ---
 
-## 🔥 Sobre Mim  
+## 📌 Minha Stack no Flutter  
 
-✅ Desenvolvedor **Flutter & Dart**  
-✅ Integração com **API RESTful**  
-✅ Backend em **PHP & MySQL**  
-✅ Integração com **TOTVS Protheus (ADVPL)**  
-✅ Otimização de processos empresariais via tecnologia  
+🔹 **Gerenciamento de Estado:**  
+- **Provider** → Apps reativos e escaláveis  
+- **GetX** → Simplificação do fluxo de dados  
 
-💡 Sempre explorando novas tecnologias para criar **soluções inovadoras** e **automatizar processos**!  
+🔹 **Armazenamento Local:**  
+- **Hive** → Armazenamento NoSQL rápido  
+- **SharedPreferences** → Armazenamento leve de configurações  
 
-📌 **Desenvolvido por [Rodrigo Souza](https://github.com/rodrigo2ss)**  
+🔹 **Consumo de API:**  
+- **Dio** → Alto desempenho em requisições  
+- **Retrofit** → Comunicação mais estruturada  
+
+🔹 **UI/UX:**  
+- **Material Design & Cupertino**  
+- **Responsividade com MediaQuery e LayoutBuilder**  
+- **Animações com Rive e Lottie**  
+
+---
+
+## 🔥 Contato  
+
+📌 **Portfólio:** [Em breve 🚀]  
+📌 **GitHub:** [Rodrigo Souza](https://github.com/rodrigo2ss)  
+📌 **LinkedIn:** [linkedin.com/in/rodrigo-souza](https://www.linkedin.com/in/rodrigo-souza/)  
+
+💡 **Sempre em busca de inovação e performance no desenvolvimento mobile! 🚀🔥**
