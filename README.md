@@ -34,7 +34,7 @@ Minha missão é desenvolver soluções escaláveis que otimizam fluxos de traba
       <br/>API REST
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/T/totvs-logo-AC24AADE6C-seeklogo.com.png" width="50px"/>
+      <img src="[https://seeklogo.com/images/T/totvs-logo-AC24AADE6C-seeklogo.com.png](https://seeklogo.com/images/T/totvs-logo-AC24AADE6C-seeklogo.com.png)" width="50px"/>
       <br/>TOTVS Protheus
     </td>
   </tr>
