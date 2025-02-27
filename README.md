@@ -80,7 +80,7 @@
 - **SharedPreferences** → Armazenamento leve de configurações  
 
 🔹 **Consumo de API:**  
-- **Dio** → Alto desempenho em requisições  
+- **http** → Alto desempenho em requisições  
 - **Retrofit** → Comunicação mais estruturada  
 
 🔹 **UI/UX:**  
