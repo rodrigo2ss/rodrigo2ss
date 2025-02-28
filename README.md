@@ -94,6 +94,6 @@
 
 📌 **Portfólio:** [Em breve 🚀]  
 📌 **GitHub:** [Rodrigo Souza](https://github.com/rodrigo2ss)  
-📌 **LinkedIn:** [linkedin.com/in/rodrigo-souza](https://www.linkedin.com/in/rodrigo2ss/)  
+📌 **LinkedIn:** [linkedin.com/in/RodrigoSouza](https://www.linkedin.com/in/rodrigo2ss/)  
 
 💡 **Sempre em busca de inovação e performance no desenvolvimento mobile! 🚀🔥**
