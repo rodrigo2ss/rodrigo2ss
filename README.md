@@ -8,7 +8,8 @@
 
 ## 🏆 Sobre Mim  
 
-👋 Olá! Sou **Rodrigo Souza**, desenvolvedor **Flutter & Integrador TOTVS Protheus**, apaixonado por tecnologia e soluções **mobile cross-platform**.  
+👋 Olá! Sou **Rodrigo Souza**, desenvolvedor **Flutter & Integrador TOTVS Protheus**
+    apaixonado por tecnologia e soluções **mobile cross-platform**.  
 
 🚀 Minha especialidade é criar **aplicativos escaláveis** que se conectam a sistemas corporativos via **API RESTful**, utilizando **PHP & MySQL**.  
 💼 Experiência sólida em **integração com TOTVS Protheus (ADVPL)**, automatizando processos e otimizando a performance.  
